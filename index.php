@@ -12,4 +12,11 @@ echo"Most of the time you will have a checked-out branch (the special reference 
 if ($_POST['edit']) {
 	echo "for editing";
 }
+<<<<<<< HEAD
 >>>>>>> 9d015d5638de73068722eb6b0034ef5a9a16668f
+=======
+
+if ($_POST['delete']) {
+	echo "for deleting";
+}
+>>>>>>> 418002577769bee0130bae35f19c2e31024d365f
